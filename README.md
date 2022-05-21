@@ -1,0 +1,1 @@
+A site all about sushi. Complete with semantic and meta tags.
