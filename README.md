@@ -1,4 +1,4 @@
-A site all about sushi. Complete with semantic and meta tags.
+<strong>A site all about sushi. Complete with semantic and meta tags.</strong>
 
-To get a local copy, use the command
-#*git clone https://github.com/innotechBymoen/HtmlMeta.git*
+<p> To get a local copy, use the command</p>
+<h3>git clone https://github.com/innotechBymoen/HtmlMeta.git</h3>
